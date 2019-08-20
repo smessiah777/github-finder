@@ -19,7 +19,7 @@ This app was created with React Context API and Hooks
 - User able to search for Github profiles using a search bar
 - User can click on the more button to see relevant profile information
 - App displays Github profile avatar and username
-- App displays Github users location
+- App displays Github user's location
 - App displays if Github profile user is hireable
 - App displays Github profile Bio
 - App displays Github profile user's github link
