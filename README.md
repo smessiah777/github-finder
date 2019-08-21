@@ -8,7 +8,7 @@
 
 ## Overview
 
-React app that allows the user to search for Github profiles using the Github API
+React app that allows a user to search for Github profiles using the Github API
 
 This app was created with React Context API and Hooks
 
