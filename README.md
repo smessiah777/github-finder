@@ -34,7 +34,8 @@ This app was created with React Context API and Hooks
 ## Core Technologies
 
 - React
-- React Router
+- Create React App
+- React Context API
 - Github API
 
 ## Deployment Link
